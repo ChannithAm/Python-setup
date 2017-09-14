@@ -112,11 +112,7 @@ $
 
 >sphinx-quickstart
 
-https://daler.github.io/sphinxdoc-test/includeme.html
-https://channitham.github.io/ccna-khmer/
-http://datadesk.latimes.com/posts/2012/01/sphinx-on-github/
-https://www.youtube.com/watch?feature=player_embedded&v=oJsUvBQyHBs
-=================================================================
+
 
 install sphinx
 >
@@ -146,4 +142,12 @@ import sphinx_rtd_theme
 html_theme = "sphinx_rtd_theme"
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
+
+
+References
+===========
+https://daler.github.io/sphinxdoc-test/includeme.html
+https://channitham.github.io/ccna-khmer/
+http://datadesk.latimes.com/posts/2012/01/sphinx-on-github/
+https://www.youtube.com/watch?feature=player_embedded&v=oJsUvBQyHBs
 
