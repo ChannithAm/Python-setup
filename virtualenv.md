@@ -103,10 +103,15 @@ $
 ## Sphinx Doc
 
 ** Create a repository on Github, call it ccna-khmer
+
 >git clone git@github.com:ChannithAm/ccna-khmer.git
+
 >cd ccna-khmer
+
 >mkdir first-docs-------not use
+
 >sphinx-quickstart
+
 https://daler.github.io/sphinxdoc-test/includeme.html
 https://channitham.github.io/ccna-khmer/
 http://datadesk.latimes.com/posts/2012/01/sphinx-on-github/
