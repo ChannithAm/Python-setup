@@ -127,13 +127,21 @@ Change to Doc directory
 > sphinx-quickstart
 
 -- Separate source and build directories : `y`
+
 -- Name prefix: `n`
+
 -- Project name: <>
+
 -- use epub: `y`
+
 -- autodoc: `y`
+
 -- doctest: `n`
+
 -- intersphinx: `y`
+
 -- write todo: `n`
+
 -- ifconfig: `y`
 
 Theme:
