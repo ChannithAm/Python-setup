@@ -118,11 +118,14 @@ install sphinx
 >
 
 create directory
+
 > mkdir Doc
 
 Change to Doc directory
 > cd Doc
+
 > sphinx-quickstart
+
 -- Separate source and build directories : `y`
 -- Name prefix: `n`
 -- Project name: <>
