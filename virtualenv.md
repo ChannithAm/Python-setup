@@ -115,7 +115,7 @@ $
 
 
 install sphinx
->
+> apt-get install python-sphinx
 
 create directory
 
